@@ -1,7 +1,7 @@
 Git-Repo-Link ---> https://github.com/pavanreddy986/Online-Library-System
 Online Library System
 
-Project Description
+*Project Description**:
 The Online Library System is a React-based web application designed to provide users with an interactive platform to explore and manage a collection of books. It includes features like browsing books by category, viewing book details, searching for books, adding new books, and handling undefined routes.
 
 
