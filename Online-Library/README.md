@@ -1,7 +1,7 @@
 Git-Repo-Link ---> https://github.com/pavanreddy986/Online-Library-System
 Online Library System
 
-## Project Description
+Project Description
 The Online Library System is a React-based web application designed to provide users with an interactive platform to explore and manage a collection of books. It includes features like browsing books by category, viewing book details, searching for books, adding new books, and handling undefined routes.
 
 
@@ -31,16 +31,14 @@ Add Book Page
 
 
 Technologies Used
-- **React**: For building the user interface.
-- **React Router**: For routing and navigation.
-- **Redux**: For state management.
-- **CSS/Styled Components**: For styling the application.
+- React: For building the user interface.
+- React Router: For routing and navigation.
+- Redux: For state management.
+- CSS/Styled Components: For styling the application.
 
  Installation and Running the Application
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/online-library-system.git
    
 2.cd online-library-system
 
